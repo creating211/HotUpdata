@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 3993208398
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08f2c85dcb39c5e6366c28cb52ad539e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 16c36b7b3350fad15821c42f96c32ccb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Material/Boy01_Body_MAT1.mat
+- Assets/Material/Boy01_diffuse.jpg
+- Assets/Material/Boy01_normal.jpg
+Dependencies: []
